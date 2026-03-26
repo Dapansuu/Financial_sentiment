@@ -2,3 +2,4 @@ eda.ipynb
 /dataset
 /models
 /serving_model
+/api/__pycache__

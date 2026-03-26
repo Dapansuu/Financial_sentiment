@@ -1,0 +1,489 @@
+sentence,sentiment,char_len,word_len,digit_count,has_number,has_percent,has_currency
+"""PSUs languishing in valuations, but offer pockets of hope""",negative,59,9,0,False,False,False
+"""PSUs languishing in valuations, but offer pockets of hope""",neutral,59,9,0,False,False,False
+"""With investors steering clear, infra bonds by banks may see early death""",negative,73,12,0,False,False,False
+"""With investors steering clear, infra bonds by banks may see early death""",neutral,73,12,0,False,False,False
+17 March 2011 - Goldman Sachs estimates that there are negative prospects for the Norwegian mobile operations of Norway 's Telenor ASA OSL : TEL and Sweden 's TeliaSonera AB STO : TLSN in the short term .,negative,204,38,6,True,False,False
+17 March 2011 - Goldman Sachs estimates that there are negative prospects for the Norwegian mobile operations of Norway 's Telenor ASA OSL : TEL and Sweden 's TeliaSonera AB STO : TLSN in the short term .,negative,204,38,6,True,False,False
+17 March 2011 - Goldman Sachs estimates that there are negative prospects for the Norwegian mobile operations of Norway 's Telenor ASA OSL : TEL and Sweden 's TeliaSonera AB STO : TLSN in the short term .,negative,204,38,6,True,False,False
+17 March 2011 - Goldman Sachs estimates that there are negative prospects for the Norwegian mobile operations of Norway 's Telenor ASA OSL : TEL and Sweden 's TeliaSonera AB STO : TLSN in the short term .,neutral,204,38,6,True,False,False
+18 March 2010 A leakage in the gypsum pond was detected today at the Talvivaara mine .,negative,86,17,6,True,False,False
+18 March 2010 A leakage in the gypsum pond was detected today at the Talvivaara mine .,negative,86,17,6,True,False,False
+18 March 2010 A leakage in the gypsum pond was detected today at the Talvivaara mine .,neutral,86,17,6,True,False,False
+"2009 3 February 2010 - Finland-based steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today it slipped to a larger-than-expected pretax loss of EUR46m in the fourth quarter of 2009 from a year-earlier profit of EUR45m .",negative,233,43,17,True,False,False
+"2009 3 February 2010 - Finland-based steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today it slipped to a larger-than-expected pretax loss of EUR46m in the fourth quarter of 2009 from a year-earlier profit of EUR45m .",negative,233,43,17,True,False,False
+"2009 3 February 2010 - Finland-based steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today it slipped to a larger-than-expected pretax loss of EUR46m in the fourth quarter of 2009 from a year-earlier profit of EUR45m .",negative,233,43,17,True,False,False
+"2009 3 February 2010 - Finland-based steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today it slipped to a larger-than-expected pretax loss of EUR46m in the fourth quarter of 2009 from a year-earlier profit of EUR45m .",neutral,233,43,17,True,False,False
+30 November 2009 - Finnish office furniture maker Martela Oyj HEL : MARAS said today that it will make redundant three people and other nine will be laid off permanently from the company 's office staff and factory workers .,negative,224,40,6,True,False,False
+30 November 2009 - Finnish office furniture maker Martela Oyj HEL : MARAS said today that it will make redundant three people and other nine will be laid off permanently from the company 's office staff and factory workers .,negative,224,40,6,True,False,False
+30 November 2009 - Finnish office furniture maker Martela Oyj HEL : MARAS said today that it will make redundant three people and other nine will be laid off permanently from the company 's office staff and factory workers .,neutral,224,40,6,True,False,False
+A total of 140 jobs will be reduced at the Raahe Steel Works .,negative,62,14,3,True,False,False
+A total of 140 jobs will be reduced at the Raahe Steel Works .,negative,62,14,3,True,False,False
+A total of 140 jobs will be reduced at the Raahe Steel Works .,neutral,62,14,3,True,False,False
+"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",negative,219,42,28,True,False,False
+"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",negative,219,42,28,True,False,False
+"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",negative,219,42,28,True,False,False
+"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",neutral,219,42,28,True,False,False
+"ADP News - May 29 , 2009 - Bank of America BofA downgraded today its ratings on Swedish-Finnish paper maker Stora Enso Oyj HEL : STERV and on Finnish sector player UPM-Kymmene Oyj HEL : UPM1V to `` underperf",negative,207,39,7,True,False,False
+"ADP News - May 29 , 2009 - Bank of America BofA downgraded today its ratings on Swedish-Finnish paper maker Stora Enso Oyj HEL : STERV and on Finnish sector player UPM-Kymmene Oyj HEL : UPM1V to `` underperf",negative,207,39,7,True,False,False
+"ADP News - May 29 , 2009 - Bank of America BofA downgraded today its ratings on Swedish-Finnish paper maker Stora Enso Oyj HEL : STERV and on Finnish sector player UPM-Kymmene Oyj HEL : UPM1V to `` underperf",negative,207,39,7,True,False,False
+"ADP News - May 29 , 2009 - Bank of America BofA downgraded today its ratings on Swedish-Finnish paper maker Stora Enso Oyj HEL : STERV and on Finnish sector player UPM-Kymmene Oyj HEL : UPM1V to `` underperf",neutral,207,39,7,True,False,False
+"ADPnews - Aug 3 , 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL : ILK2S said today its net profit fell 45 % on the year to EUR 5.9 million USD 8.4 m in the first half of 2009 .",negative,178,40,16,True,True,False
+"ADPnews - Aug 3 , 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL : ILK2S said today its net profit fell 45 % on the year to EUR 5.9 million USD 8.4 m in the first half of 2009 .",negative,178,40,16,True,True,False
+"ADPnews - Aug 3 , 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL : ILK2S said today its net profit fell 45 % on the year to EUR 5.9 million USD 8.4 m in the first half of 2009 .",negative,178,40,16,True,True,False
+"ADPnews - Aug 3 , 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL : ILK2S said today its net profit fell 45 % on the year to EUR 5.9 million USD 8.4 m in the first half of 2009 .",neutral,178,40,16,True,True,False
+"According to the company , in addition to normal seasonal fluctuation the market situation has weakened during autumn 2008 .",negative,124,20,4,True,False,False
+"According to the company , in addition to normal seasonal fluctuation the market situation has weakened during autumn 2008 .",negative,124,20,4,True,False,False
+"According to the company , in addition to normal seasonal fluctuation the market situation has weakened during autumn 2008 .",negative,124,20,4,True,False,False
+"According to the company , in addition to normal seasonal fluctuation the market situation has weakened during autumn 2008 .",neutral,124,20,4,True,False,False
+"All the ferries had run into trouble just outside the Stockholm archipelago , made up of more than 20,000 islands .",negative,115,21,5,True,False,False
+"All the ferries had run into trouble just outside the Stockholm archipelago , made up of more than 20,000 islands .",negative,115,21,5,True,False,False
+"All the ferries had run into trouble just outside the Stockholm archipelago , made up of more than 20,000 islands .",negative,115,21,5,True,False,False
+"All the ferries had run into trouble just outside the Stockholm archipelago , made up of more than 20,000 islands .",neutral,115,21,5,True,False,False
+"Antti Orkola , president of Kemira GrowHow 's Industrial Solutions unit , told Thomson Financial News the company has put off opening the mine as prices of phosphate have been ` quite depressed for a long time ' . '",negative,215,40,0,False,False,False
+"Antti Orkola , president of Kemira GrowHow 's Industrial Solutions unit , told Thomson Financial News the company has put off opening the mine as prices of phosphate have been ` quite depressed for a long time ' . '",negative,215,40,0,False,False,False
+"Antti Orkola , president of Kemira GrowHow 's Industrial Solutions unit , told Thomson Financial News the company has put off opening the mine as prices of phosphate have been ` quite depressed for a long time ' . '",neutral,215,40,0,False,False,False
+"As a result , the company will temporarily lay-off 25 % of the whole personnel , approximately 270 persons at Kirkkonummi and Nivala factories .",negative,144,25,5,True,True,False
+"As a result , the company will temporarily lay-off 25 % of the whole personnel , approximately 270 persons at Kirkkonummi and Nivala factories .",negative,144,25,5,True,True,False
+"As a result , the company will temporarily lay-off 25 % of the whole personnel , approximately 270 persons at Kirkkonummi and Nivala factories .",neutral,144,25,5,True,True,False
+As a result some 20 persons will no longer be needed .,negative,54,12,2,True,False,False
+As a result some 20 persons will no longer be needed .,negative,54,12,2,True,False,False
+As a result some 20 persons will no longer be needed .,neutral,54,12,2,True,False,False
+"As capacity was cut with 1.4 % , the passenger load factor was down 7.8 percentage points .",negative,91,18,4,True,True,False
+"As capacity was cut with 1.4 % , the passenger load factor was down 7.8 percentage points .",negative,91,18,4,True,True,False
+"As capacity was cut with 1.4 % , the passenger load factor was down 7.8 percentage points .",negative,91,18,4,True,True,False
+"As capacity was cut with 1.4 % , the passenger load factor was down 7.8 percentage points .",neutral,91,18,4,True,True,False
+Asian shares flat as investors digest Greek deal,negative,48,8,0,False,False,False
+Asian shares flat as investors digest Greek deal,neutral,48,8,0,False,False,False
+Aspocomp has a large factory in China and a factory building project in India that was halted due to financing problems .,negative,121,22,0,False,False,False
+Aspocomp has a large factory in China and a factory building project in India that was halted due to financing problems .,negative,121,22,0,False,False,False
+Aspocomp has a large factory in China and a factory building project in India that was halted due to financing problems .,negative,121,22,0,False,False,False
+Aspocomp has a large factory in China and a factory building project in India that was halted due to financing problems .,neutral,121,22,0,False,False,False
+"At 1.33 pm , the OMX Helsinki 25 was 0.30 pct lower at 2,463.67 and the OMX Helsinki was down 0.37 pct at 8,537.42 on volume of 256 mln eur .",negative,141,31,26,True,False,False
+"At 1.33 pm , the OMX Helsinki 25 was 0.30 pct lower at 2,463.67 and the OMX Helsinki was down 0.37 pct at 8,537.42 on volume of 256 mln eur .",negative,141,31,26,True,False,False
+"At 1.33 pm , the OMX Helsinki 25 was 0.30 pct lower at 2,463.67 and the OMX Helsinki was down 0.37 pct at 8,537.42 on volume of 256 mln eur .",negative,141,31,26,True,False,False
+"At 1.33 pm , the OMX Helsinki 25 was 0.30 pct lower at 2,463.67 and the OMX Helsinki was down 0.37 pct at 8,537.42 on volume of 256 mln eur .",neutral,141,31,26,True,False,False
+"At the close , the OMX Helsinki 25 was 0.01 pct lower at 3,067.64 points and the OMX Helsinki was down 0.05 pct at 10,321.46 points on over 1.343 bln eur of turnover .",negative,167,34,25,True,False,False
+"At the close , the OMX Helsinki 25 was 0.01 pct lower at 3,067.64 points and the OMX Helsinki was down 0.05 pct at 10,321.46 points on over 1.343 bln eur of turnover .",negative,167,34,25,True,False,False
+"At the close , the OMX Helsinki 25 was 0.01 pct lower at 3,067.64 points and the OMX Helsinki was down 0.05 pct at 10,321.46 points on over 1.343 bln eur of turnover .",negative,167,34,25,True,False,False
+"At the close , the OMX Helsinki 25 was 0.01 pct lower at 3,067.64 points and the OMX Helsinki was down 0.05 pct at 10,321.46 points on over 1.343 bln eur of turnover .",neutral,167,34,25,True,False,False
+"Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",negative,294,56,10,True,True,False
+"Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",negative,294,56,10,True,True,False
+"Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",negative,294,56,10,True,True,False
+"Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",neutral,294,56,10,True,True,False
+Carl Icahn says his firm sold remainder of Netflix stake,negative,56,10,0,False,False,False
+Carl Icahn says his firm sold remainder of Netflix stake,neutral,56,10,0,False,False,False
+Cash Flow from Operations for the most recent quarter also reached a eight year low .,negative,85,16,0,False,False,False
+Cash Flow from Operations for the most recent quarter also reached a eight year low .,negative,85,16,0,False,False,False
+Cash Flow from Operations for the most recent quarter also reached a eight year low .,negative,85,16,0,False,False,False
+Cash Flow from Operations for the most recent quarter also reached a eight year low .,neutral,85,16,0,False,False,False
+"Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",negative,136,25,13,True,True,False
+"Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",negative,136,25,13,True,True,False
+"Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",negative,136,25,13,True,True,False
+"Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",neutral,136,25,13,True,True,False
+"Comparable operating profit for the quarter decreased from EUR510m while sales increased from EUR860m , as compared to the third quarter 2007 .",negative,143,23,10,True,False,False
+"Comparable operating profit for the quarter decreased from EUR510m while sales increased from EUR860m , as compared to the third quarter 2007 .",negative,143,23,10,True,False,False
+"Comparable operating profit for the quarter decreased from EUR510m while sales increased from EUR860m , as compared to the third quarter 2007 .",negative,143,23,10,True,False,False
+"Comparable operating profit for the quarter decreased from EUR510m while sales increased from EUR860m , as compared to the third quarter 2007 .",neutral,143,23,10,True,False,False
+Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .,negative,119,21,14,True,True,False
+Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .,negative,119,21,14,True,True,False
+Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .,negative,119,21,14,True,True,False
+Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .,neutral,119,21,14,True,True,False
+Cramo slipped to a pretax loss of EUR 6.7 million from a pretax profit of EUR 58.9 million .,negative,92,19,5,True,False,False
+Cramo slipped to a pretax loss of EUR 6.7 million from a pretax profit of EUR 58.9 million .,negative,92,19,5,True,False,False
+Cramo slipped to a pretax loss of EUR 6.7 million from a pretax profit of EUR 58.9 million .,negative,92,19,5,True,False,False
+Cramo slipped to a pretax loss of EUR 6.7 million from a pretax profit of EUR 58.9 million .,neutral,92,19,5,True,False,False
+"Currently , the company foresees its pre-tax profit to remain below the 2009 level when it reached EUR 700,000 USD 934,000 , compared with previous projections of a slightly better pre-tax profit .",negative,197,33,16,True,False,False
+"Currently , the company foresees its pre-tax profit to remain below the 2009 level when it reached EUR 700,000 USD 934,000 , compared with previous projections of a slightly better pre-tax profit .",negative,197,33,16,True,False,False
+"Currently , the company foresees its pre-tax profit to remain below the 2009 level when it reached EUR 700,000 USD 934,000 , compared with previous projections of a slightly better pre-tax profit .",negative,197,33,16,True,False,False
+"Currently , the company foresees its pre-tax profit to remain below the 2009 level when it reached EUR 700,000 USD 934,000 , compared with previous projections of a slightly better pre-tax profit .",neutral,197,33,16,True,False,False
+"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",negative,98,21,3,True,False,False
+"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",negative,98,21,3,True,False,False
+"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",negative,98,21,3,True,False,False
+"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",neutral,98,21,3,True,False,False
+"Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .",negative,70,16,6,True,False,False
+"Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .",negative,70,16,6,True,False,False
+"Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .",negative,70,16,6,True,False,False
+"Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .",neutral,70,16,6,True,False,False
+Earnings per share ( EPS ) amounted to a loss of EUR0 .38 .,negative,59,14,3,True,False,False
+Earnings per share ( EPS ) amounted to a loss of EUR0 .38 .,negative,59,14,3,True,False,False
+Earnings per share ( EPS ) amounted to a loss of EUR0 .38 .,neutral,59,14,3,True,False,False
+Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .,negative,76,16,14,True,False,False
+Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .,negative,76,16,14,True,False,False
+Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .,negative,76,16,14,True,False,False
+Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .,neutral,76,16,14,True,False,False
+Empee Distilleries reports Q3 net loss at Rs 2.47 crore,negative,55,10,4,True,False,True
+Empee Distilleries reports Q3 net loss at Rs 2.47 crore,neutral,55,10,4,True,False,True
+Export declined by 6 percent to 16.4 million liters .,negative,53,10,4,True,False,False
+Export declined by 6 percent to 16.4 million liters .,negative,53,10,4,True,False,False
+Export declined by 6 percent to 16.4 million liters .,negative,53,10,4,True,False,False
+Export declined by 6 percent to 16.4 million liters .,neutral,53,10,4,True,False,False
+Finland-based Stockmann Group has closed seven franchising sports stores Nike in Russia .,negative,89,13,0,False,False,False
+Finland-based Stockmann Group has closed seven franchising sports stores Nike in Russia .,negative,89,13,0,False,False,False
+Finland-based Stockmann Group has closed seven franchising sports stores Nike in Russia .,negative,89,13,0,False,False,False
+Finland-based Stockmann Group has closed seven franchising sports stores Nike in Russia .,neutral,89,13,0,False,False,False
+"Finnish Exel Composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to EUR 19.2 mn from EUR 19.3 mn in the corresponding period in 2009 .",negative,296,52,16,True,True,False
+"Finnish Exel Composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to EUR 19.2 mn from EUR 19.3 mn in the corresponding period in 2009 .",negative,296,52,16,True,True,False
+"Finnish Exel Composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to EUR 19.2 mn from EUR 19.3 mn in the corresponding period in 2009 .",negative,296,52,16,True,True,False
+"Finnish Exel Composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to EUR 19.2 mn from EUR 19.3 mn in the corresponding period in 2009 .",neutral,296,52,16,True,True,False
+"Finnish Food Workers ' Union SEL plans to hasten its collective bargaining with a two-day strike that would begin on 7 April 2010 , in Finland .",negative,144,27,5,True,False,False
+"Finnish Food Workers ' Union SEL plans to hasten its collective bargaining with a two-day strike that would begin on 7 April 2010 , in Finland .",negative,144,27,5,True,False,False
+"Finnish Food Workers ' Union SEL plans to hasten its collective bargaining with a two-day strike that would begin on 7 April 2010 , in Finland .",negative,144,27,5,True,False,False
+"Finnish Food Workers ' Union SEL plans to hasten its collective bargaining with a two-day strike that would begin on 7 April 2010 , in Finland .",neutral,144,27,5,True,False,False
+Finnish M-real 's Kyro mill is starting negotiations to cut staff .,negative,67,12,0,False,False,False
+Finnish M-real 's Kyro mill is starting negotiations to cut staff .,negative,67,12,0,False,False,False
+Finnish M-real 's Kyro mill is starting negotiations to cut staff .,neutral,67,12,0,False,False,False
+"Finnish Suominen Flexible Packaging is cutting 48 jobs in its unit in Tampere and two in Nastola , in Finland .",negative,111,21,2,True,False,False
+"Finnish Suominen Flexible Packaging is cutting 48 jobs in its unit in Tampere and two in Nastola , in Finland .",negative,111,21,2,True,False,False
+"Finnish Suominen Flexible Packaging is cutting 48 jobs in its unit in Tampere and two in Nastola , in Finland .",neutral,111,21,2,True,False,False
+Finnish automation solutions developer Cencorp Corporation ( OMX Helsinki : CNC1V ) issued on Thursday ( 18 September ) a profit warning for the third quarter of 2008 .,negative,168,29,7,True,False,False
+Finnish automation solutions developer Cencorp Corporation ( OMX Helsinki : CNC1V ) issued on Thursday ( 18 September ) a profit warning for the third quarter of 2008 .,negative,168,29,7,True,False,False
+Finnish automation solutions developer Cencorp Corporation ( OMX Helsinki : CNC1V ) issued on Thursday ( 18 September ) a profit warning for the third quarter of 2008 .,negative,168,29,7,True,False,False
+Finnish automation solutions developer Cencorp Corporation ( OMX Helsinki : CNC1V ) issued on Thursday ( 18 September ) a profit warning for the third quarter of 2008 .,neutral,168,29,7,True,False,False
+Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .,negative,201,43,16,True,False,True
+Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .,negative,201,43,16,True,False,True
+Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .,negative,201,43,16,True,False,True
+Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .,neutral,201,43,16,True,False,True
+Finnish developer and manufacturer of mobile phone chargers Salcomp Plc OMX Helsinki : SAL1V on Wednesday 19 November lowered its full-year net sales estimate .,negative,160,25,3,True,False,False
+Finnish developer and manufacturer of mobile phone chargers Salcomp Plc OMX Helsinki : SAL1V on Wednesday 19 November lowered its full-year net sales estimate .,negative,160,25,3,True,False,False
+Finnish developer and manufacturer of mobile phone chargers Salcomp Plc OMX Helsinki : SAL1V on Wednesday 19 November lowered its full-year net sales estimate .,negative,160,25,3,True,False,False
+Finnish developer and manufacturer of mobile phone chargers Salcomp Plc OMX Helsinki : SAL1V on Wednesday 19 November lowered its full-year net sales estimate .,neutral,160,25,3,True,False,False
+"Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",negative,147,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",negative,147,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",negative,147,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",neutral,147,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil reports net sales of EUR 58.9 mn in the second quarter of 2007 , down from EUR 62.4 mn a year earlier .",negative,153,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil reports net sales of EUR 58.9 mn in the second quarter of 2007 , down from EUR 62.4 mn a year earlier .",negative,153,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil reports net sales of EUR 58.9 mn in the second quarter of 2007 , down from EUR 62.4 mn a year earlier .",negative,153,28,10,True,False,False
+"Finnish electronics contract manufacturer Scanfil reports net sales of EUR 58.9 mn in the second quarter of 2007 , down from EUR 62.4 mn a year earlier .",neutral,153,28,10,True,False,False
+Finnish glass technology company Glaston Oyj Abp net profit decreased to 2.6 mln euro ( $ 3.8 mln ) for the first nine months of 2007 from 7.8 mln euro ( $ 11.4 mln ) for the same period of 2006 .,negative,196,42,17,True,False,True
+Finnish glass technology company Glaston Oyj Abp net profit decreased to 2.6 mln euro ( $ 3.8 mln ) for the first nine months of 2007 from 7.8 mln euro ( $ 11.4 mln ) for the same period of 2006 .,negative,196,42,17,True,False,True
+Finnish glass technology company Glaston Oyj Abp net profit decreased to 2.6 mln euro ( $ 3.8 mln ) for the first nine months of 2007 from 7.8 mln euro ( $ 11.4 mln ) for the same period of 2006 .,negative,196,42,17,True,False,True
+Finnish glass technology company Glaston Oyj Abp net profit decreased to 2.6 mln euro ( $ 3.8 mln ) for the first nine months of 2007 from 7.8 mln euro ( $ 11.4 mln ) for the same period of 2006 .,neutral,196,42,17,True,False,True
+Finnish insurance company Fennia and Kesko Group are ending their loyal customer cooperation .,negative,94,14,0,False,False,False
+Finnish insurance company Fennia and Kesko Group are ending their loyal customer cooperation .,negative,94,14,0,False,False,False
+Finnish insurance company Fennia and Kesko Group are ending their loyal customer cooperation .,negative,94,14,0,False,False,False
+Finnish insurance company Fennia and Kesko Group are ending their loyal customer cooperation .,neutral,94,14,0,False,False,False
+"Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",negative,200,38,28,True,False,True
+"Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",negative,200,38,28,True,False,True
+"Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",negative,200,38,28,True,False,True
+"Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",neutral,200,38,28,True,False,True
+Finnish metal products company Componenta Oyj net profit went slightly down to 25.1 mln euro ( $ 40.2 mln ) for the first half of 2008 from 25.4 mln euro ( $ 40.7 mln ) for the same period of 2007 .,negative,198,42,20,True,False,True
+Finnish metal products company Componenta Oyj net profit went slightly down to 25.1 mln euro ( $ 40.2 mln ) for the first half of 2008 from 25.4 mln euro ( $ 40.7 mln ) for the same period of 2007 .,negative,198,42,20,True,False,True
+Finnish metal products company Componenta Oyj net profit went slightly down to 25.1 mln euro ( $ 40.2 mln ) for the first half of 2008 from 25.4 mln euro ( $ 40.7 mln ) for the same period of 2007 .,negative,198,42,20,True,False,True
+Finnish metal products company Componenta Oyj net profit went slightly down to 25.1 mln euro ( $ 40.2 mln ) for the first half of 2008 from 25.4 mln euro ( $ 40.7 mln ) for the same period of 2007 .,neutral,198,42,20,True,False,True
+"Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",negative,206,35,16,True,False,False
+"Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",negative,206,35,16,True,False,False
+"Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",negative,206,35,16,True,False,False
+"Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",neutral,206,35,16,True,False,False
+"Finnish shipping company Finnlines ' pretax loss totalled EUR 6.5 mn in the third quarter of 2009 , compared to a profit of EUR 0.3 mn in the third quarter of 2008 .",negative,165,33,12,True,False,False
+"Finnish shipping company Finnlines ' pretax loss totalled EUR 6.5 mn in the third quarter of 2009 , compared to a profit of EUR 0.3 mn in the third quarter of 2008 .",negative,165,33,12,True,False,False
+"Finnish shipping company Finnlines ' pretax loss totalled EUR 6.5 mn in the third quarter of 2009 , compared to a profit of EUR 0.3 mn in the third quarter of 2008 .",negative,165,33,12,True,False,False
+"Finnish shipping company Finnlines ' pretax loss totalled EUR 6.5 mn in the third quarter of 2009 , compared to a profit of EUR 0.3 mn in the third quarter of 2008 .",neutral,165,33,12,True,False,False
+Flat Nifty OI data hints at trend reversal,negative,42,8,0,False,False,False
+Flat Nifty OI data hints at trend reversal,neutral,42,8,0,False,False,False
+"Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .",negative,103,20,14,True,True,False
+"Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .",negative,103,20,14,True,True,False
+"Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .",negative,103,20,14,True,True,False
+"Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .",neutral,103,20,14,True,True,False
+Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .,negative,160,36,16,True,False,True
+Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .,negative,160,36,16,True,False,True
+Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .,negative,160,36,16,True,False,True
+Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .,neutral,160,36,16,True,False,True
+"However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",negative,146,28,8,True,False,False
+"However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",negative,146,28,8,True,False,False
+"However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",negative,146,28,8,True,False,False
+"However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",neutral,146,28,8,True,False,False
+"However , the orders received during the period under review fell by 17 % quarter-on-quarter from the EUR 213 million recorded in the second quarter of 2010 .",negative,158,28,9,True,True,False
+"However , the orders received during the period under review fell by 17 % quarter-on-quarter from the EUR 213 million recorded in the second quarter of 2010 .",negative,158,28,9,True,True,False
+"However , the orders received during the period under review fell by 17 % quarter-on-quarter from the EUR 213 million recorded in the second quarter of 2010 .",negative,158,28,9,True,True,False
+"However , the orders received during the period under review fell by 17 % quarter-on-quarter from the EUR 213 million recorded in the second quarter of 2010 .",neutral,158,28,9,True,True,False
+"In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .",negative,105,22,12,True,False,False
+"In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .",negative,105,22,12,True,False,False
+"In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .",negative,105,22,12,True,False,False
+"In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .",neutral,105,22,12,True,False,False
+"In Q1 of 2009 , the company 's result before taxes from continuing operations , excluding non-recurring items , totalled EUR -0.4 mn , compared to EUR -0.1 mn in the corresponding period in 2008 .",negative,196,36,13,True,False,False
+"In Q1 of 2009 , the company 's result before taxes from continuing operations , excluding non-recurring items , totalled EUR -0.4 mn , compared to EUR -0.1 mn in the corresponding period in 2008 .",negative,196,36,13,True,False,False
+"In Q1 of 2009 , the company 's result before taxes from continuing operations , excluding non-recurring items , totalled EUR -0.4 mn , compared to EUR -0.1 mn in the corresponding period in 2008 .",negative,196,36,13,True,False,False
+"In Q1 of 2009 , the company 's result before taxes from continuing operations , excluding non-recurring items , totalled EUR -0.4 mn , compared to EUR -0.1 mn in the corresponding period in 2008 .",neutral,196,36,13,True,False,False
+"In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .",negative,99,24,16,True,False,False
+"In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .",negative,99,24,16,True,False,False
+"In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .",negative,99,24,16,True,False,False
+"In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .",neutral,99,24,16,True,False,False
+"In addition , the production at the Varpaisj+â rvi factory will be stopped at the beginning of April 2009 .",negative,107,20,4,True,False,False
+"In addition , the production at the Varpaisj+â rvi factory will be stopped at the beginning of April 2009 .",neutral,107,20,4,True,False,False
+"In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",negative,78,17,5,True,True,False
+"In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",negative,78,17,5,True,True,False
+"In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",negative,78,17,5,True,True,False
+"In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",neutral,78,17,5,True,True,False
+"In the Baltic countries , sales fell by 42.6 % .",negative,48,11,3,True,True,False
+"In the Baltic countries , sales fell by 42.6 % .",negative,48,11,3,True,True,False
+"In the Baltic countries , sales fell by 42.6 % .",negative,48,11,3,True,True,False
+"In the Baltic countries , sales fell by 42.6 % .",neutral,48,11,3,True,True,False
+"In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .",negative,96,19,6,True,True,False
+"In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .",negative,96,19,6,True,True,False
+"In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .",negative,96,19,6,True,True,False
+"In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .",neutral,96,19,6,True,True,False
+Incap Furniture is presently negotiating staff cuts .,negative,53,8,0,False,False,False
+Incap Furniture is presently negotiating staff cuts .,negative,53,8,0,False,False,False
+Incap Furniture is presently negotiating staff cuts .,neutral,53,8,0,False,False,False
+"Insurer Axa ( PAR : CS ) slid by 5.35 % to EUR 14.15 , after Citigroup and ING slashed their targets on the stock .",negative,115,26,7,True,True,False
+"Insurer Axa ( PAR : CS ) slid by 5.35 % to EUR 14.15 , after Citigroup and ING slashed their targets on the stock .",negative,115,26,7,True,True,False
+"Insurer Axa ( PAR : CS ) slid by 5.35 % to EUR 14.15 , after Citigroup and ING slashed their targets on the stock .",negative,115,26,7,True,True,False
+"Insurer Axa ( PAR : CS ) slid by 5.35 % to EUR 14.15 , after Citigroup and ING slashed their targets on the stock .",neutral,115,26,7,True,True,False
+Kenneth Andrade exits IDFC Mutual Fund leaving investors jittery,negative,64,9,0,False,False,False
+Kenneth Andrade exits IDFC Mutual Fund leaving investors jittery,neutral,64,9,0,False,False,False
+L&T 's net profit for the whole 2010 dropped to EUR 36 million from EUR 45 million for 2009 .,negative,93,20,12,True,False,False
+L&T 's net profit for the whole 2010 dropped to EUR 36 million from EUR 45 million for 2009 .,negative,93,20,12,True,False,False
+L&T 's net profit for the whole 2010 dropped to EUR 36 million from EUR 45 million for 2009 .,negative,93,20,12,True,False,False
+L&T 's net profit for the whole 2010 dropped to EUR 36 million from EUR 45 million for 2009 .,neutral,93,20,12,True,False,False
+"Making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .",negative,180,33,0,False,False,False
+"Making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .",negative,180,33,0,False,False,False
+"Making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .",negative,180,33,0,False,False,False
+"Making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .",neutral,180,33,0,False,False,False
+"More than 14,000 customers were left powerless .",negative,48,8,5,True,False,False
+"More than 14,000 customers were left powerless .",negative,48,8,5,True,False,False
+"More than 14,000 customers were left powerless .",neutral,48,8,5,True,False,False
+"Net cash flow from operating activities was a negative EUR 3.1 mn , compared to EUR 23.3 mn in the corresponding period in 2009 .",negative,129,25,9,True,False,False
+"Net cash flow from operating activities was a negative EUR 3.1 mn , compared to EUR 23.3 mn in the corresponding period in 2009 .",negative,129,25,9,True,False,False
+"Net cash flow from operating activities was a negative EUR 3.1 mn , compared to EUR 23.3 mn in the corresponding period in 2009 .",negative,129,25,9,True,False,False
+"Net cash flow from operating activities was a negative EUR 3.1 mn , compared to EUR 23.3 mn in the corresponding period in 2009 .",neutral,129,25,9,True,False,False
+Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .,negative,91,18,12,True,False,False
+Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .,negative,91,18,12,True,False,False
+Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .,negative,91,18,12,True,False,False
+Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .,neutral,91,18,12,True,False,False
+Net sales fell by 5 % from the previous accounting period .,negative,59,12,1,True,True,False
+Net sales fell by 5 % from the previous accounting period .,negative,59,12,1,True,True,False
+Net sales fell by 5 % from the previous accounting period .,negative,59,12,1,True,True,False
+Net sales fell by 5 % from the previous accounting period .,neutral,59,12,1,True,True,False
+"Net sales of Kyro 's main business area , Glaston Technologies , a manufacturer of glass processing machines , decreased to EUR 161.5 mn from EUR 164.1 mn in January-September 2005 .",negative,182,32,12,True,False,False
+"Net sales of Kyro 's main business area , Glaston Technologies , a manufacturer of glass processing machines , decreased to EUR 161.5 mn from EUR 164.1 mn in January-September 2005 .",negative,182,32,12,True,False,False
+"Net sales of Kyro 's main business area , Glaston Technologies , a manufacturer of glass processing machines , decreased to EUR 161.5 mn from EUR 164.1 mn in January-September 2005 .",negative,182,32,12,True,False,False
+"Net sales of Kyro 's main business area , Glaston Technologies , a manufacturer of glass processing machines , decreased to EUR 161.5 mn from EUR 164.1 mn in January-September 2005 .",neutral,182,32,12,True,False,False
+Nifty50 in a no-trade zone due to holiday-truncated week: Sandeep Wagle,negative,71,11,2,True,False,False
+Nifty50 in a no-trade zone due to holiday-truncated week: Sandeep Wagle,neutral,71,11,2,True,False,False
+Nokia s U.S. shares were 3.3 percent lower at $ 12.73 by 1750 GMT .,negative,67,15,10,True,False,True
+Nokia s U.S. shares were 3.3 percent lower at $ 12.73 by 1750 GMT .,negative,67,15,10,True,False,True
+Nokia s U.S. shares were 3.3 percent lower at $ 12.73 by 1750 GMT .,negative,67,15,10,True,False,True
+Nokia s U.S. shares were 3.3 percent lower at $ 12.73 by 1750 GMT .,neutral,67,15,10,True,False,True
+"Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",negative,247,47,11,True,False,True
+"Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",negative,247,47,11,True,False,True
+"Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",negative,247,47,11,True,False,True
+"Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",neutral,247,47,11,True,False,True
+Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .,negative,82,18,8,True,False,False
+Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .,negative,82,18,8,True,False,False
+Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .,negative,82,18,8,True,False,False
+Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .,neutral,82,18,8,True,False,False
+Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .,negative,106,21,8,True,False,False
+Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .,negative,106,21,8,True,False,False
+Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .,negative,106,21,8,True,False,False
+Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .,neutral,106,21,8,True,False,False
+"Operating loss totalled EUR 0.9 mn , down from a profit of EUR 2.7 mn .",negative,71,16,4,True,False,False
+"Operating loss totalled EUR 0.9 mn , down from a profit of EUR 2.7 mn .",negative,71,16,4,True,False,False
+"Operating loss totalled EUR 0.9 mn , down from a profit of EUR 2.7 mn .",negative,71,16,4,True,False,False
+"Operating loss totalled EUR 0.9 mn , down from a profit of EUR 2.7 mn .",neutral,71,16,4,True,False,False
+Operating profit decreased to EUR 16mn from EUR 21.1 mn in 2008 .,negative,65,13,9,True,False,False
+Operating profit decreased to EUR 16mn from EUR 21.1 mn in 2008 .,negative,65,13,9,True,False,False
+Operating profit decreased to EUR 16mn from EUR 21.1 mn in 2008 .,negative,65,13,9,True,False,False
+Operating profit decreased to EUR 16mn from EUR 21.1 mn in 2008 .,neutral,65,13,9,True,False,False
+Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .,negative,97,15,5,True,False,False
+Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .,negative,97,15,5,True,False,False
+Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .,negative,97,15,5,True,False,False
+Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .,neutral,97,15,5,True,False,False
+Operating profit fell to EUR 20.3 mn from EUR 74.2 mn in the second quarter of 2008 .,negative,85,18,10,True,False,False
+Operating profit fell to EUR 20.3 mn from EUR 74.2 mn in the second quarter of 2008 .,negative,85,18,10,True,False,False
+Operating profit fell to EUR 20.3 mn from EUR 74.2 mn in the second quarter of 2008 .,negative,85,18,10,True,False,False
+Operating profit fell to EUR 20.3 mn from EUR 74.2 mn in the second quarter of 2008 .,neutral,85,18,10,True,False,False
+"Operating profit for the 12-month period decreased from EUR157 .5 m , while net sales increased from EUR634 .3 m , as compared to 2007 .",negative,136,26,14,True,False,False
+"Operating profit for the 12-month period decreased from EUR157 .5 m , while net sales increased from EUR634 .3 m , as compared to 2007 .",negative,136,26,14,True,False,False
+"Operating profit for the 12-month period decreased from EUR157 .5 m , while net sales increased from EUR634 .3 m , as compared to 2007 .",negative,136,26,14,True,False,False
+"Operating profit for the 12-month period decreased from EUR157 .5 m , while net sales increased from EUR634 .3 m , as compared to 2007 .",neutral,136,26,14,True,False,False
+"Paper companies were in negative territories , with Stora Enso R shedding 1.62 pct to 12.73 eur , UPM-Kymmene down 0.80 pct at 18.64 eur and M-real B 0.18 pct lower at 5.57 eur .",negative,178,35,20,True,False,False
+"Paper companies were in negative territories , with Stora Enso R shedding 1.62 pct to 12.73 eur , UPM-Kymmene down 0.80 pct at 18.64 eur and M-real B 0.18 pct lower at 5.57 eur .",negative,178,35,20,True,False,False
+"Paper companies were in negative territories , with Stora Enso R shedding 1.62 pct to 12.73 eur , UPM-Kymmene down 0.80 pct at 18.64 eur and M-real B 0.18 pct lower at 5.57 eur .",negative,178,35,20,True,False,False
+"Paper companies were in negative territories , with Stora Enso R shedding 1.62 pct to 12.73 eur , UPM-Kymmene down 0.80 pct at 18.64 eur and M-real B 0.18 pct lower at 5.57 eur .",neutral,178,35,20,True,False,False
+"Pretax loss totaled EUR 1.2 mn , down from a profit of EUR 2.1 mn in 2004 .",negative,75,18,8,True,False,False
+"Pretax loss totaled EUR 1.2 mn , down from a profit of EUR 2.1 mn in 2004 .",negative,75,18,8,True,False,False
+"Pretax loss totaled EUR 1.2 mn , down from a profit of EUR 2.1 mn in 2004 .",negative,75,18,8,True,False,False
+"Pretax loss totaled EUR 1.2 mn , down from a profit of EUR 2.1 mn in 2004 .",neutral,75,18,8,True,False,False
+"Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",negative,106,22,10,True,False,False
+"Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",negative,106,22,10,True,False,False
+"Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",negative,106,22,10,True,False,False
+"Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",neutral,106,22,10,True,False,False
+Prices and delivery volumes of broadband products decreased significantly in 2005 .,negative,83,12,4,True,False,False
+Prices and delivery volumes of broadband products decreased significantly in 2005 .,negative,83,12,4,True,False,False
+Prices and delivery volumes of broadband products decreased significantly in 2005 .,negative,83,12,4,True,False,False
+Prices and delivery volumes of broadband products decreased significantly in 2005 .,neutral,83,12,4,True,False,False
+"Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",negative,114,22,0,False,False,False
+"Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",negative,114,22,0,False,False,False
+"Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",negative,114,22,0,False,False,False
+"Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",neutral,114,22,0,False,False,False
+Profit before taxes decreased to EUR 31.6 mn from EUR 50.0 mn the year before .,negative,79,16,6,True,False,False
+Profit before taxes decreased to EUR 31.6 mn from EUR 50.0 mn the year before .,negative,79,16,6,True,False,False
+Profit before taxes decreased to EUR 31.6 mn from EUR 50.0 mn the year before .,negative,79,16,6,True,False,False
+Profit before taxes decreased to EUR 31.6 mn from EUR 50.0 mn the year before .,neutral,79,16,6,True,False,False
+"Profit for the period totalled EUR 0.8 mn , down from EUR 1.1 mn in the corresponding period in 2008 .",negative,102,21,8,True,False,False
+"Profit for the period totalled EUR 0.8 mn , down from EUR 1.1 mn in the corresponding period in 2008 .",negative,102,21,8,True,False,False
+"Profit for the period totalled EUR 0.8 mn , down from EUR 1.1 mn in the corresponding period in 2008 .",negative,102,21,8,True,False,False
+"Profit for the period totalled EUR 0.8 mn , down from EUR 1.1 mn in the corresponding period in 2008 .",neutral,102,21,8,True,False,False
+RISING costs have forced packaging producer Huhtamaki to axe 90 jobs at its Hampshire manufacturing plant .,negative,107,17,2,True,False,False
+RISING costs have forced packaging producer Huhtamaki to axe 90 jobs at its Hampshire manufacturing plant .,negative,107,17,2,True,False,False
+RISING costs have forced packaging producer Huhtamaki to axe 90 jobs at its Hampshire manufacturing plant .,neutral,107,17,2,True,False,False
+Relations with the City have been further damaged by comments from Mr Ashley criticising City investors and analysts as `` cry babies '' .,negative,138,24,0,False,False,False
+Relations with the City have been further damaged by comments from Mr Ashley criticising City investors and analysts as `` cry babies '' .,negative,138,24,0,False,False,False
+Relations with the City have been further damaged by comments from Mr Ashley criticising City investors and analysts as `` cry babies '' .,negative,138,24,0,False,False,False
+Relations with the City have been further damaged by comments from Mr Ashley criticising City investors and analysts as `` cry babies '' .,neutral,138,24,0,False,False,False
+Salonen added that data shows producers ' pulp inventories in North America are declining . ',negative,93,16,0,False,False,False
+Salonen added that data shows producers ' pulp inventories in North America are declining . ',negative,93,16,0,False,False,False
+Salonen added that data shows producers ' pulp inventories in North America are declining . ',negative,93,16,0,False,False,False
+Salonen added that data shows producers ' pulp inventories in North America are declining . ',neutral,93,16,0,False,False,False
+"Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",negative,98,22,10,True,True,False
+"Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",negative,98,22,10,True,True,False
+"Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",negative,98,22,10,True,True,False
+"Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",neutral,98,22,10,True,True,False
+Scanfil issued a profit warning on 10 April 2006 .,negative,50,10,6,True,False,False
+Scanfil issued a profit warning on 10 April 2006 .,negative,50,10,6,True,False,False
+Scanfil issued a profit warning on 10 April 2006 .,negative,50,10,6,True,False,False
+Scanfil issued a profit warning on 10 April 2006 .,neutral,50,10,6,True,False,False
+"Several large stocks tacked lower , however .",negative,45,8,0,False,False,False
+"Several large stocks tacked lower , however .",negative,45,8,0,False,False,False
+"Several large stocks tacked lower , however .",negative,45,8,0,False,False,False
+"Several large stocks tacked lower , however .",neutral,45,8,0,False,False,False
+"Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .",negative,160,31,5,True,False,False
+"Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .",negative,160,31,5,True,False,False
+"Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .",negative,160,31,5,True,False,False
+"Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .",neutral,160,31,5,True,False,False
+Stora Enso 's target has been cut to EUR 4.85 from EUR 5.55 and Holmen 's target -- to SEK 135 from SEK 150 .,negative,109,25,12,True,False,False
+Stora Enso 's target has been cut to EUR 4.85 from EUR 5.55 and Holmen 's target -- to SEK 135 from SEK 150 .,negative,109,25,12,True,False,False
+Stora Enso 's target has been cut to EUR 4.85 from EUR 5.55 and Holmen 's target -- to SEK 135 from SEK 150 .,neutral,109,25,12,True,False,False
+Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .,negative,104,19,4,True,False,False
+Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .,negative,104,19,4,True,False,False
+Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .,negative,104,19,4,True,False,False
+Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .,neutral,104,19,4,True,False,False
+Subscription sales decreased slightly .,negative,39,5,0,False,False,False
+Subscription sales decreased slightly .,negative,39,5,0,False,False,False
+Subscription sales decreased slightly .,negative,39,5,0,False,False,False
+Subscription sales decreased slightly .,neutral,39,5,0,False,False,False
+Talentum 's net sales in September were smaller than expected .,negative,63,11,0,False,False,False
+Talentum 's net sales in September were smaller than expected .,negative,63,11,0,False,False,False
+Talentum 's net sales in September were smaller than expected .,negative,63,11,0,False,False,False
+Talentum 's net sales in September were smaller than expected .,neutral,63,11,0,False,False,False
+The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .,negative,70,15,6,True,True,False
+The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .,negative,70,15,6,True,True,False
+The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .,negative,70,15,6,True,True,False
+The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .,neutral,70,15,6,True,True,False
+The Elcoteq group recently announced that the last three months of the previous year brought to it a major loss of more than half a billion kroons ( EUR 32 mln ) for the fifth quarter running .,negative,193,38,2,True,False,False
+The Elcoteq group recently announced that the last three months of the previous year brought to it a major loss of more than half a billion kroons ( EUR 32 mln ) for the fifth quarter running .,negative,193,38,2,True,False,False
+The Elcoteq group recently announced that the last three months of the previous year brought to it a major loss of more than half a billion kroons ( EUR 32 mln ) for the fifth quarter running .,negative,193,38,2,True,False,False
+The Elcoteq group recently announced that the last three months of the previous year brought to it a major loss of more than half a billion kroons ( EUR 32 mln ) for the fifth quarter running .,neutral,193,38,2,True,False,False
+"The Finnish national carrier said net loss in April through June was euro26 million , down from a net profit of euro13 million a year earlier .",negative,143,27,4,True,False,False
+"The Finnish national carrier said net loss in April through June was euro26 million , down from a net profit of euro13 million a year earlier .",negative,143,27,4,True,False,False
+"The Finnish national carrier said net loss in April through June was euro26 million , down from a net profit of euro13 million a year earlier .",negative,143,27,4,True,False,False
+"The Finnish national carrier said net loss in April through June was euro26 million , down from a net profit of euro13 million a year earlier .",neutral,143,27,4,True,False,False
+The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .,negative,92,19,16,True,False,False
+The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .,negative,92,19,16,True,False,False
+The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .,negative,92,19,16,True,False,False
+The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .,neutral,92,19,16,True,False,False
+"The OMX Helsinki 25 ended 0.47 pct lower at 3,150.55 and the OMX Helsinki was down 0.21 pct at 10,736.42 on 1.523 bln eur turnover .",negative,132,26,25,True,False,False
+"The OMX Helsinki 25 ended 0.47 pct lower at 3,150.55 and the OMX Helsinki was down 0.21 pct at 10,736.42 on 1.523 bln eur turnover .",negative,132,26,25,True,False,False
+"The OMX Helsinki 25 ended 0.47 pct lower at 3,150.55 and the OMX Helsinki was down 0.21 pct at 10,736.42 on 1.523 bln eur turnover .",negative,132,26,25,True,False,False
+"The OMX Helsinki 25 ended 0.47 pct lower at 3,150.55 and the OMX Helsinki was down 0.21 pct at 10,736.42 on 1.523 bln eur turnover .",neutral,132,26,25,True,False,False
+The administrators have indicated a need for 900 job cuts at the Irish insurer over the next 15 months .,negative,104,20,5,True,False,False
+The administrators have indicated a need for 900 job cuts at the Irish insurer over the next 15 months .,negative,104,20,5,True,False,False
+The administrators have indicated a need for 900 job cuts at the Irish insurer over the next 15 months .,neutral,104,20,5,True,False,False
+The airline 's share price closed down slightly at (  x20ac ) 12.51 ( $ 15US .74 ) in Helsinki .,negative,96,21,10,True,False,True
+The airline 's share price closed down slightly at (  x20ac ) 12.51 ( $ 15US .74 ) in Helsinki .,negative,96,21,10,True,False,True
+The airline 's share price closed down slightly at (  x20ac ) 12.51 ( $ 15US .74 ) in Helsinki .,neutral,96,21,10,True,False,True
+"The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",negative,248,43,2,True,False,False
+"The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",negative,248,43,2,True,False,False
+"The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",negative,248,43,2,True,False,False
+"The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",neutral,248,43,2,True,False,False
+The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,negative,150,29,12,True,False,False
+The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,negative,150,29,12,True,False,False
+The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,negative,150,29,12,True,False,False
+The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,neutral,150,29,12,True,False,False
+The company reported today an operating loss of EUR0 .1 m on net sales of EUR4 .5 m for the first quarter 2008 .,negative,112,24,8,True,False,False
+The company reported today an operating loss of EUR0 .1 m on net sales of EUR4 .5 m for the first quarter 2008 .,negative,112,24,8,True,False,False
+The company reported today an operating loss of EUR0 .1 m on net sales of EUR4 .5 m for the first quarter 2008 .,negative,112,24,8,True,False,False
+The company reported today an operating loss of EUR0 .1 m on net sales of EUR4 .5 m for the first quarter 2008 .,neutral,112,24,8,True,False,False
+"The currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .",negative,100,24,7,True,False,True
+"The currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .",negative,100,24,7,True,False,True
+"The currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .",negative,100,24,7,True,False,True
+"The currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .",neutral,100,24,7,True,False,True
+"The decision means temporary lay-offs of fixed duration at the company 's Nastola and Jyvaskyla units , in southern and central Finland , respectively .",negative,152,25,0,False,False,False
+"The decision means temporary lay-offs of fixed duration at the company 's Nastola and Jyvaskyla units , in southern and central Finland , respectively .",negative,152,25,0,False,False,False
+"The decision means temporary lay-offs of fixed duration at the company 's Nastola and Jyvaskyla units , in southern and central Finland , respectively .",neutral,152,25,0,False,False,False
+The dismissed staff members will now take the matter to court unless it can be settled outside .,negative,96,18,0,False,False,False
+The dismissed staff members will now take the matter to court unless it can be settled outside .,negative,96,18,0,False,False,False
+The dismissed staff members will now take the matter to court unless it can be settled outside .,negative,96,18,0,False,False,False
+The dismissed staff members will now take the matter to court unless it can be settled outside .,neutral,96,18,0,False,False,False
+"The liquidity providing was interrupted on May 11 , 2007 when Aspocomp Group Oyj 's shares traded below 0.50 cent ( Aspocomp 's stock exchange release 11.5.2007 ) .",negative,164,29,16,True,False,False
+"The liquidity providing was interrupted on May 11 , 2007 when Aspocomp Group Oyj 's shares traded below 0.50 cent ( Aspocomp 's stock exchange release 11.5.2007 ) .",negative,164,29,16,True,False,False
+"The liquidity providing was interrupted on May 11 , 2007 when Aspocomp Group Oyj 's shares traded below 0.50 cent ( Aspocomp 's stock exchange release 11.5.2007 ) .",neutral,164,29,16,True,False,False
+"The negotiation has resulted in the reduction of 80 people in regular employment , around half of which will be covered with pension arrangements .",negative,147,25,2,True,False,False
+"The negotiation has resulted in the reduction of 80 people in regular employment , around half of which will be covered with pension arrangements .",negative,147,25,2,True,False,False
+"The negotiation has resulted in the reduction of 80 people in regular employment , around half of which will be covered with pension arrangements .",neutral,147,25,2,True,False,False
+"The operating loss amounted to EUR 0.8 mn , compared to a profit of EUR 3.9 mn a year earlier .",negative,95,21,4,True,False,False
+"The operating loss amounted to EUR 0.8 mn , compared to a profit of EUR 3.9 mn a year earlier .",negative,95,21,4,True,False,False
+"The operating loss amounted to EUR 0.8 mn , compared to a profit of EUR 3.9 mn a year earlier .",negative,95,21,4,True,False,False
+"The operating loss amounted to EUR 0.8 mn , compared to a profit of EUR 3.9 mn a year earlier .",neutral,95,21,4,True,False,False
+The operating margin came down to 2.4 % from 5.7 % .,negative,52,12,4,True,True,False
+The operating margin came down to 2.4 % from 5.7 % .,negative,52,12,4,True,True,False
+The operating margin came down to 2.4 % from 5.7 % .,negative,52,12,4,True,True,False
+The operating margin came down to 2.4 % from 5.7 % .,neutral,52,12,4,True,True,False
+"The poorest index figure was given to Finnish power company Fortum , 4.5 .",negative,74,14,2,True,False,False
+"The poorest index figure was given to Finnish power company Fortum , 4.5 .",negative,74,14,2,True,False,False
+"The poorest index figure was given to Finnish power company Fortum , 4.5 .",negative,74,14,2,True,False,False
+"The poorest index figure was given to Finnish power company Fortum , 4.5 .",neutral,74,14,2,True,False,False
+"The pulp production in Finnish Kemij+ñrvi will also be liquidated and about 1,100 employees loose their jobs .",negative,110,18,4,True,False,False
+"The pulp production in Finnish Kemij+ñrvi will also be liquidated and about 1,100 employees loose their jobs .",negative,110,18,4,True,False,False
+"The pulp production in Finnish Kemij+ñrvi will also be liquidated and about 1,100 employees loose their jobs .",neutral,110,18,4,True,False,False
+The reduction notice applied to 17 people .,negative,43,8,2,True,False,False
+The reduction notice applied to 17 people .,negative,43,8,2,True,False,False
+The reduction notice applied to 17 people .,neutral,43,8,2,True,False,False
+"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",negative,110,21,5,True,False,False
+"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",negative,110,21,5,True,False,False
+"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",negative,110,21,5,True,False,False
+"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",neutral,110,21,5,True,False,False
+"The steelmaker said that the drop in profit was explained by the continuing economic uncertainty , mixed with the current drought in bank lending , resulting in a decline in demand for its products as customers find it increasingly difficult to fund operations .",negative,262,44,0,False,False,False
+"The steelmaker said that the drop in profit was explained by the continuing economic uncertainty , mixed with the current drought in bank lending , resulting in a decline in demand for its products as customers find it increasingly difficult to fund operations .",negative,262,44,0,False,False,False
+"The steelmaker said that the drop in profit was explained by the continuing economic uncertainty , mixed with the current drought in bank lending , resulting in a decline in demand for its products as customers find it increasingly difficult to fund operations .",negative,262,44,0,False,False,False
+"The steelmaker said that the drop in profit was explained by the continuing economic uncertainty , mixed with the current drought in bank lending , resulting in a decline in demand for its products as customers find it increasingly difficult to fund operations .",neutral,262,44,0,False,False,False
+The stock was hit by the profit warning of Finnish rival Rautaruukki Oyj ( OMX : RTRKS ) .,negative,90,19,0,False,False,False
+The stock was hit by the profit warning of Finnish rival Rautaruukki Oyj ( OMX : RTRKS ) .,negative,90,19,0,False,False,False
+The stock was hit by the profit warning of Finnish rival Rautaruukki Oyj ( OMX : RTRKS ) .,negative,90,19,0,False,False,False
+The stock was hit by the profit warning of Finnish rival Rautaruukki Oyj ( OMX : RTRKS ) .,neutral,90,19,0,False,False,False
+The total capital of funds managed by the bank decreased by 28 % to EUR 284mn by the end of September 2008 .,negative,108,23,9,True,True,False
+The total capital of funds managed by the bank decreased by 28 % to EUR 284mn by the end of September 2008 .,negative,108,23,9,True,True,False
+The total capital of funds managed by the bank decreased by 28 % to EUR 284mn by the end of September 2008 .,negative,108,23,9,True,True,False
+The total capital of funds managed by the bank decreased by 28 % to EUR 284mn by the end of September 2008 .,neutral,108,23,9,True,True,False
+They are also upset that some of the machinery and work is taken over to Poland .,negative,81,17,0,False,False,False
+They are also upset that some of the machinery and work is taken over to Poland .,negative,81,17,0,False,False,False
+They are also upset that some of the machinery and work is taken over to Poland .,neutral,81,17,0,False,False,False
+"TietoEnator was down 1.13 pct to 18.38 , extending recent lows after last week 's second-quarter report , dealers said .",negative,120,21,7,True,False,False
+"TietoEnator was down 1.13 pct to 18.38 , extending recent lows after last week 's second-quarter report , dealers said .",negative,120,21,7,True,False,False
+"TietoEnator was down 1.13 pct to 18.38 , extending recent lows after last week 's second-quarter report , dealers said .",negative,120,21,7,True,False,False
+"TietoEnator was down 1.13 pct to 18.38 , extending recent lows after last week 's second-quarter report , dealers said .",neutral,120,21,7,True,False,False
+Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .,negative,151,36,16,True,False,True
+Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .,negative,151,36,16,True,False,True
+Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .,negative,151,36,16,True,False,True
+Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .,neutral,151,36,16,True,False,True
+"We have also cut our price projections for paper and packaging , '' an analyst with Goldman Sachs said on a note on Monday .",negative,124,25,0,False,False,False
+"We have also cut our price projections for paper and packaging , '' an analyst with Goldman Sachs said on a note on Monday .",negative,124,25,0,False,False,False
+"We have also cut our price projections for paper and packaging , '' an analyst with Goldman Sachs said on a note on Monday .",neutral,124,25,0,False,False,False
+"When this information was released on 5 September 2008 , Nokia 's American Depositary shares fell by 8 % .",negative,106,20,6,True,True,False
+"When this information was released on 5 September 2008 , Nokia 's American Depositary shares fell by 8 % .",negative,106,20,6,True,True,False
+"When this information was released on 5 September 2008 , Nokia 's American Depositary shares fell by 8 % .",negative,106,20,6,True,True,False
+"When this information was released on 5 September 2008 , Nokia 's American Depositary shares fell by 8 % .",neutral,106,20,6,True,True,False
+"YIT 's Baltic sales in the first three quarters of 2008 totaled 106.2 million euros , representing a drop of 29 percent year on year .",negative,134,26,10,True,False,False
+"YIT 's Baltic sales in the first three quarters of 2008 totaled 106.2 million euros , representing a drop of 29 percent year on year .",negative,134,26,10,True,False,False
+"YIT 's Baltic sales in the first three quarters of 2008 totaled 106.2 million euros , representing a drop of 29 percent year on year .",negative,134,26,10,True,False,False
+"YIT 's Baltic sales in the first three quarters of 2008 totaled 106.2 million euros , representing a drop of 29 percent year on year .",neutral,134,26,10,True,False,False
+"`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",negative,104,21,0,False,False,False
+"`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",negative,104,21,0,False,False,False
+"`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",negative,104,21,0,False,False,False
+"`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",neutral,104,21,0,False,False,False
+down to EUR5 .9 m H1 '09 3 August 2009 - Finnish media group Ilkka-Yhtyma Oyj ( HEL : ILK2S ) said today its net profit fell 45 % on the year to EUR5 .9 m in the first half of 2009 .,negative,182,43,19,True,True,False
+down to EUR5 .9 m H1 '09 3 August 2009 - Finnish media group Ilkka-Yhtyma Oyj ( HEL : ILK2S ) said today its net profit fell 45 % on the year to EUR5 .9 m in the first half of 2009 .,negative,182,43,19,True,True,False
+down to EUR5 .9 m H1 '09 3 August 2009 - Finnish media group Ilkka-Yhtyma Oyj ( HEL : ILK2S ) said today its net profit fell 45 % on the year to EUR5 .9 m in the first half of 2009 .,negative,182,43,19,True,True,False
+down to EUR5 .9 m H1 '09 3 August 2009 - Finnish media group Ilkka-Yhtyma Oyj ( HEL : ILK2S ) said today its net profit fell 45 % on the year to EUR5 .9 m in the first half of 2009 .,neutral,182,43,19,True,True,False
