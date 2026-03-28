@@ -124,7 +124,7 @@ The `frontend/` directory contains a web interface (HTML/CSS/JavaScript) that al
 | Notebook  | Jupyter Notebook        |
 | Export    | TensorFlow SavedModel   |
 | API       | Python (backend server) |
-| Frontend  | HTML, CSS, JavaScript   |
+| Frontend  | React JS  |
 
 ---
 
