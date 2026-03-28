@@ -121,7 +121,7 @@ The `frontend/` directory contains a web interface (HTML/CSS/JavaScript) that al
 | Layer     | Technology              |
 |-----------|-------------------------|
 | Model     | TensorFlow / Keras LSTM |
-| Notebook  | Jupyter Notebook        |
+| Training  | Jupyter Notebook        |
 | Export    | TensorFlow SavedModel   |
 | API       | Python (backend server) |
 | Frontend  | React JS  |
